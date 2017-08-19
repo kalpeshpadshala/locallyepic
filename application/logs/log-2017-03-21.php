@@ -1,0 +1,262 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-21 03:06:53 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 03:06:53 --> Unable to connect to the database
+ERROR - 2017-03-21 03:11:24 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 03:11:24 --> Unable to connect to the database
+ERROR - 2017-03-21 03:26:20 --> 404 Page Not Found --> testproxy.php
+ERROR - 2017-03-21 03:49:17 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 03:49:17 --> Unable to connect to the database
+ERROR - 2017-03-21 03:57:30 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 03:57:30 --> Unable to connect to the database
+ERROR - 2017-03-21 04:10:30 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 04:10:30 --> Unable to connect to the database
+ERROR - 2017-03-21 11:46:56 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 11:46:56 --> Unable to connect to the database
+ERROR - 2017-03-21 12:16:47 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 12:16:47 --> Unable to connect to the database
+ERROR - 2017-03-21 12:28:48 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 12:28:48 --> Unable to connect to the database
+ERROR - 2017-03-21 12:28:48 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 12:28:48 --> Unable to connect to the database
+ERROR - 2017-03-21 15:34:49 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 15:34:49 --> Unable to connect to the database
+ERROR - 2017-03-21 16:05:03 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:05:03 --> Unable to connect to the database
+ERROR - 2017-03-21 16:05:06 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:05:06 --> Unable to connect to the database
+ERROR - 2017-03-21 16:05:07 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:05:07 --> Unable to connect to the database
+ERROR - 2017-03-21 16:05:08 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:05:08 --> Unable to connect to the database
+ERROR - 2017-03-21 16:05:09 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:05:09 --> Unable to connect to the database
+ERROR - 2017-03-21 16:05:11 --> 404 Page Not Found --> notexist_path.htaccess
+ERROR - 2017-03-21 16:05:12 --> 404 Page Not Found --> notexist_path.404notfound
+ERROR - 2017-03-21 16:05:14 --> 404 Page Not Found --> path_not_exist.404notfound
+ERROR - 2017-03-21 16:05:15 --> 404 Page Not Found --> web-console
+ERROR - 2017-03-21 16:05:15 --> 404 Page Not Found --> wp-includes
+ERROR - 2017-03-21 16:05:16 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-03-21 16:05:16 --> 404 Page Not Found --> wp-includes
+ERROR - 2017-03-21 16:05:17 --> 404 Page Not Found --> notexist_path.txt
+ERROR - 2017-03-21 16:05:19 --> 404 Page Not Found --> data
+ERROR - 2017-03-21 16:05:19 --> 404 Page Not Found --> source
+ERROR - 2017-03-21 16:05:21 --> 404 Page Not Found --> discuz_version.php
+ERROR - 2017-03-21 16:05:21 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-03-21 16:05:21 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-03-21 16:05:22 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-03-21 16:05:22 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-03-21 16:05:23 --> 404 Page Not Found --> admin.php
+ERROR - 2017-03-21 16:05:23 --> 404 Page Not Found --> licence.txt
+ERROR - 2017-03-21 16:05:24 --> 404 Page Not Found --> phpmyadmin
+ERROR - 2017-03-21 16:05:24 --> 404 Page Not Found --> phpmyadmin
+ERROR - 2017-03-21 16:05:25 --> 404 Page Not Found --> phpMyAdmin
+ERROR - 2017-03-21 16:05:25 --> 404 Page Not Found --> phpMyAdmin
+ERROR - 2017-03-21 16:05:26 --> 404 Page Not Found --> notexist_path
+ERROR - 2017-03-21 16:05:26 --> 404 Page Not Found --> ChangeLog
+ERROR - 2017-03-21 16:05:27 --> 404 Page Not Found --> doc
+ERROR - 2017-03-21 16:05:28 --> 404 Page Not Found --> doc
+ERROR - 2017-03-21 16:05:29 --> 404 Page Not Found --> phpmyadmin
+ERROR - 2017-03-21 16:05:30 --> 404 Page Not Found --> phpmyadmin
+ERROR - 2017-03-21 16:05:30 --> 404 Page Not Found --> phpMyAdmin
+ERROR - 2017-03-21 16:05:31 --> 404 Page Not Found --> phpMyAdmin
+ERROR - 2017-03-21 16:05:32 --> 404 Page Not Found --> phpmyadmin
+ERROR - 2017-03-21 16:05:32 --> 404 Page Not Found --> phpMyAdmin
+ERROR - 2017-03-21 16:05:33 --> 404 Page Not Found --> README
+ERROR - 2017-03-21 16:05:33 --> 404 Page Not Found --> styles
+ERROR - 2017-03-21 16:05:34 --> 404 Page Not Found --> styles
+ERROR - 2017-03-21 16:05:35 --> 404 Page Not Found --> docs
+ERROR - 2017-03-21 16:05:35 --> 404 Page Not Found --> p.php
+ERROR - 2017-03-21 16:05:36 --> 404 Page Not Found --> index.php
+ERROR - 2017-03-21 16:05:36 --> 404 Page Not Found --> admin.php
+ERROR - 2017-03-21 16:05:38 --> 404 Page Not Found --> statics
+ERROR - 2017-03-21 16:05:39 --> 404 Page Not Found --> phpcms
+ERROR - 2017-03-21 16:05:39 --> 404 Page Not Found --> phpcms
+ERROR - 2017-03-21 16:05:39 --> 404 Page Not Found --> source
+ERROR - 2017-03-21 16:05:40 --> 404 Page Not Found --> source
+ERROR - 2017-03-21 16:05:40 --> 404 Page Not Found --> source
+ERROR - 2017-03-21 16:05:44 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:05:44 --> 404 Page Not Found --> admin
+ERROR - 2017-03-21 16:05:45 --> 404 Page Not Found --> hm_permission_denied.php
+ERROR - 2017-03-21 16:05:46 --> 404 Page Not Found --> hm_frontpage.php
+ERROR - 2017-03-21 16:05:47 --> 404 Page Not Found --> language
+ERROR - 2017-03-21 16:05:47 --> 404 Page Not Found --> doc
+ERROR - 2017-03-21 16:05:48 --> 404 Page Not Found --> API
+ERROR - 2017-03-21 16:05:48 --> 404 Page Not Found --> BUGS
+ERROR - 2017-03-21 16:05:49 --> 404 Page Not Found --> CREDITS
+ERROR - 2017-03-21 16:05:50 --> 404 Page Not Found --> INSTALL
+ERROR - 2017-03-21 16:05:51 --> 404 Page Not Found --> news_manajemen
+ERROR - 2017-03-21 16:05:51 --> 404 Page Not Found --> wtnews.xml
+ERROR - 2017-03-21 16:05:52 --> 404 Page Not Found --> docs
+ERROR - 2017-03-21 16:05:52 --> 404 Page Not Found --> INSTALL.txt
+ERROR - 2017-03-21 16:05:53 --> 404 Page Not Found --> KS_Inc
+ERROR - 2017-03-21 16:05:54 --> 404 Page Not Found --> KS_Inc
+ERROR - 2017-03-21 16:05:55 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:05:57 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:05:57 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:05:58 --> 404 Page Not Found --> themes
+ERROR - 2017-03-21 16:05:59 --> 404 Page Not Found --> themes
+ERROR - 2017-03-21 16:05:59 --> 404 Page Not Found --> themes
+ERROR - 2017-03-21 16:06:01 --> 404 Page Not Found --> templets
+ERROR - 2017-03-21 16:06:02 --> 404 Page Not Found --> data
+ERROR - 2017-03-21 16:06:02 --> 404 Page Not Found --> data
+ERROR - 2017-03-21 16:06:02 --> 404 Page Not Found --> dede
+ERROR - 2017-03-21 16:06:03 --> 404 Page Not Found --> dede
+ERROR - 2017-03-21 16:06:04 --> 404 Page Not Found --> templets
+ERROR - 2017-03-21 16:06:04 --> 404 Page Not Found --> templets
+ERROR - 2017-03-21 16:06:05 --> 404 Page Not Found --> templets
+ERROR - 2017-03-21 16:06:09 --> 404 Page Not Found --> templets
+ERROR - 2017-03-21 16:06:09 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:06:10 --> 404 Page Not Found --> README.txt
+ERROR - 2017-03-21 16:06:11 --> 404 Page Not Found --> addons
+ERROR - 2017-03-21 16:06:11 --> 404 Page Not Found --> includes
+ERROR - 2017-03-21 16:06:11 --> 404 Page Not Found --> htaccess.txt
+ERROR - 2017-03-21 16:06:12 --> 404 Page Not Found --> joomla.xml
+ERROR - 2017-03-21 16:06:12 --> 404 Page Not Found --> administrator
+ERROR - 2017-03-21 16:06:13 --> 404 Page Not Found --> misc
+ERROR - 2017-03-21 16:06:15 --> 404 Page Not Found --> CHANGELOG.txt
+ERROR - 2017-03-21 16:06:15 --> 404 Page Not Found --> license.txt
+ERROR - 2017-03-21 16:06:16 --> 404 Page Not Found --> default
+ERROR - 2017-03-21 16:06:16 --> 404 Page Not Found --> default
+ERROR - 2017-03-21 16:06:17 --> 404 Page Not Found --> template
+ERROR - 2017-03-21 16:06:17 --> 404 Page Not Found --> readme.txt
+ERROR - 2017-03-21 16:06:18 --> 404 Page Not Found --> zb_system
+ERROR - 2017-03-21 16:06:18 --> 404 Page Not Found --> celive
+ERROR - 2017-03-21 16:06:19 --> 404 Page Not Found --> notexist_path.txt
+ERROR - 2017-03-21 16:06:19 --> 404 Page Not Found --> version.txt
+ERROR - 2017-03-21 16:06:20 --> 404 Page Not Found --> admin_aspcms
+ERROR - 2017-03-21 16:06:20 --> 404 Page Not Found --> data
+ERROR - 2017-03-21 16:06:21 --> 404 Page Not Found --> data
+ERROR - 2017-03-21 16:06:22 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:06:22 --> 404 Page Not Found --> static
+ERROR - 2017-03-21 16:06:24 --> 404 Page Not Found --> tttgfiles.md5
+ERROR - 2017-03-21 16:06:24 --> 404 Page Not Found --> static
+ERROR - 2017-03-21 16:06:25 --> 404 Page Not Found --> template
+ERROR - 2017-03-21 16:06:25 --> 404 Page Not Found --> max-templates
+ERROR - 2017-03-21 16:06:26 --> 404 Page Not Found --> max-assets
+ERROR - 2017-03-21 16:06:26 --> 404 Page Not Found --> csdj
+ERROR - 2017-03-21 16:06:26 --> 404 Page Not Found --> skins
+ERROR - 2017-03-21 16:06:27 --> 404 Page Not Found --> inc
+ERROR - 2017-03-21 16:06:28 --> 404 Page Not Found --> admin
+ERROR - 2017-03-21 16:06:29 --> 404 Page Not Found --> index.php
+ERROR - 2017-03-21 16:06:30 --> 404 Page Not Found --> api
+ERROR - 2017-03-21 16:06:30 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:06:31 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:06:31 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:06:32 --> 404 Page Not Found --> javascripts
+ERROR - 2017-03-21 16:06:35 --> 404 Page Not Found --> javascripts
+ERROR - 2017-03-21 16:06:35 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:06:36 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:06:37 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:06:40 --> 404 Page Not Found --> search
+ERROR - 2017-03-21 16:06:40 --> 404 Page Not Found --> cms
+ERROR - 2017-03-21 16:06:41 --> 404 Page Not Found --> kindeditor.js
+ERROR - 2017-03-21 16:06:42 --> 404 Page Not Found --> rss.php
+ERROR - 2017-03-21 16:06:42 --> 404 Page Not Found --> templates
+ERROR - 2017-03-21 16:06:43 --> 404 Page Not Found --> public
+ERROR - 2017-03-21 16:06:44 --> 404 Page Not Found --> public
+ERROR - 2017-03-21 16:06:44 --> 404 Page Not Found --> editor
+ERROR - 2017-03-21 16:06:45 --> 404 Page Not Found --> e
+ERROR - 2017-03-21 16:06:45 --> 404 Page Not Found --> wlwmanifest.xml
+ERROR - 2017-03-21 16:06:46 --> 404 Page Not Found --> notexist_path.php
+ERROR - 2017-03-21 16:06:46 --> 404 Page Not Found --> themes
+ERROR - 2017-03-21 16:06:48 --> 404 Page Not Found --> themes
+ERROR - 2017-03-21 16:06:49 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:06:49 --> 404 Page Not Found --> javascript
+ERROR - 2017-03-21 16:06:49 --> 404 Page Not Found --> editors
+ERROR - 2017-03-21 16:06:50 --> 404 Page Not Found --> templates
+ERROR - 2017-03-21 16:06:50 --> 404 Page Not Found --> scripts
+ERROR - 2017-03-21 16:06:51 --> 404 Page Not Found --> _data
+ERROR - 2017-03-21 16:06:51 --> 404 Page Not Found --> common
+ERROR - 2017-03-21 16:06:53 --> 404 Page Not Found --> resource
+ERROR - 2017-03-21 16:06:53 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:06:54 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:06:55 --> 404 Page Not Found --> static
+ERROR - 2017-03-21 16:06:56 --> 404 Page Not Found --> skins
+ERROR - 2017-03-21 16:06:57 --> 404 Page Not Found --> skins
+ERROR - 2017-03-21 16:06:58 --> 404 Page Not Found --> login.php
+ERROR - 2017-03-21 16:06:59 --> 404 Page Not Found --> cache
+ERROR - 2017-03-21 16:07:00 --> 404 Page Not Found --> tpl
+ERROR - 2017-03-21 16:07:01 --> 404 Page Not Found --> stylesheet.css
+ERROR - 2017-03-21 16:07:02 --> 404 Page Not Found --> includes
+ERROR - 2017-03-21 16:07:03 --> 404 Page Not Found --> osCommerce
+ERROR - 2017-03-21 16:07:05 --> 404 Page Not Found --> cms
+ERROR - 2017-03-21 16:07:05 --> 404 Page Not Found --> JS
+ERROR - 2017-03-21 16:07:06 --> 404 Page Not Found --> JS
+ERROR - 2017-03-21 16:07:07 --> 404 Page Not Found --> Page
+ERROR - 2017-03-21 16:07:08 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:07:09 --> 404 Page Not Found --> library
+ERROR - 2017-03-21 16:07:10 --> 404 Page Not Found --> templates
+ERROR - 2017-03-21 16:07:11 --> 404 Page Not Found --> akcms_inc.php
+ERROR - 2017-03-21 16:07:12 --> 404 Page Not Found --> upfile
+ERROR - 2017-03-21 16:07:14 --> 404 Page Not Found --> system_css.php
+ERROR - 2017-03-21 16:07:14 --> 404 Page Not Found --> db
+ERROR - 2017-03-21 16:07:15 --> 404 Page Not Found --> templates
+ERROR - 2017-03-21 16:07:19 --> 404 Page Not Found --> templates
+ERROR - 2017-03-21 16:07:19 --> 404 Page Not Found --> include
+ERROR - 2017-03-21 16:07:20 --> 404 Page Not Found --> rss.php
+ERROR - 2017-03-21 16:07:20 --> 404 Page Not Found --> admin
+ERROR - 2017-03-21 16:07:22 --> 404 Page Not Found --> readme.htm
+ERROR - 2017-03-21 16:07:23 --> 404 Page Not Found --> wp-content
+ERROR - 2017-03-21 16:07:23 --> 404 Page Not Found --> wp-content
+ERROR - 2017-03-21 16:07:25 --> 404 Page Not Found --> admin
+ERROR - 2017-03-21 16:07:26 --> 404 Page Not Found --> tpl
+ERROR - 2017-03-21 16:07:27 --> 404 Page Not Found --> tpl
+ERROR - 2017-03-21 16:07:28 --> 404 Page Not Found --> tpl
+ERROR - 2017-03-21 16:07:29 --> 404 Page Not Found --> edoas2
+ERROR - 2017-03-21 16:07:30 --> 404 Page Not Found --> js
+ERROR - 2017-03-21 16:07:32 --> 404 Page Not Found --> resource
+ERROR - 2017-03-21 16:07:32 --> 404 Page Not Found --> Web.sitemap
+ERROR - 2017-03-21 16:07:32 --> 404 Page Not Found --> resource
+ERROR - 2017-03-21 16:07:33 --> 404 Page Not Found --> ueditor
+ERROR - 2017-03-21 16:07:33 --> 404 Page Not Found --> README.md
+ERROR - 2017-03-21 16:07:34 --> 404 Page Not Found --> fckeditor
+ERROR - 2017-03-21 16:07:34 --> 404 Page Not Found --> FCKeditor
+ERROR - 2017-03-21 16:07:35 --> 404 Page Not Found --> fckeditor
+ERROR - 2017-03-21 16:07:35 --> 404 Page Not Found --> eWebEditor.asp
+ERROR - 2017-03-21 16:07:36 --> 404 Page Not Found --> POLICY.txt
+ERROR - 2017-03-21 16:07:36 --> 404 Page Not Found --> phpMemcachedAdmin
+ERROR - 2017-03-21 16:07:37 --> 404 Page Not Found --> phpMemcachedAdmin
+ERROR - 2017-03-21 16:07:37 --> 404 Page Not Found --> Public
+ERROR - 2017-03-21 16:07:39 --> 404 Page Not Found --> Public
+ERROR - 2017-03-21 16:07:40 --> 404 Page Not Found --> lib
+ERROR - 2017-03-21 16:07:41 --> 404 Page Not Found --> ufinder
+ERROR - 2017-03-21 16:07:41 --> 404 Page Not Found --> lib
+ERROR - 2017-03-21 16:07:42 --> 404 Page Not Found --> ufinder
+ERROR - 2017-03-21 16:07:42 --> 404 Page Not Found --> admin
+ERROR - 2017-03-21 16:07:43 --> 404 Page Not Found --> uc_center
+ERROR - 2017-03-21 16:07:44 --> 404 Page Not Found --> uc_center
+ERROR - 2017-03-21 16:07:44 --> 404 Page Not Found --> template
+ERROR - 2017-03-21 16:07:45 --> 404 Page Not Found --> templates
+ERROR - 2017-03-21 16:07:46 --> 404 Page Not Found --> style
+ERROR - 2017-03-21 16:07:46 --> 404 Page Not Found --> coremail
+ERROR - 2017-03-21 16:07:47 --> 404 Page Not Found --> Style
+ERROR - 2017-03-21 16:07:47 --> 404 Page Not Found --> struts
+ERROR - 2017-03-21 16:07:48 --> 404 Page Not Found --> ThinkPHP
+ERROR - 2017-03-21 16:07:49 --> 404 Page Not Found --> ThinkPHP
+ERROR - 2017-03-21 16:07:53 --> 404 Page Not Found --> login
+ERROR - 2017-03-21 16:07:54 --> 404 Page Not Found --> 1.html
+ERROR - 2017-03-21 16:08:05 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:08:05 --> Unable to connect to the database
+ERROR - 2017-03-21 16:20:28 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 16:20:28 --> Unable to connect to the database
+ERROR - 2017-03-21 17:02:10 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 17:02:10 --> Unable to connect to the database
+ERROR - 2017-03-21 17:10:16 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 17:10:16 --> Unable to connect to the database
+ERROR - 2017-03-21 17:29:27 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 17:29:27 --> Unable to connect to the database
+ERROR - 2017-03-21 18:08:52 --> 404 Page Not Found --> rss.php
+ERROR - 2017-03-21 18:29:48 --> 404 Page Not Found --> CREDITS
+ERROR - 2017-03-21 18:30:14 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 18:30:14 --> Unable to connect to the database
+ERROR - 2017-03-21 18:32:30 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 18:32:30 --> Unable to connect to the database
+ERROR - 2017-03-21 19:05:44 --> 404 Page Not Found --> ThinkPHP
+ERROR - 2017-03-21 19:23:17 --> 404 Page Not Found --> cgi-bin
+ERROR - 2017-03-21 19:40:49 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 19:40:49 --> Unable to connect to the database
+ERROR - 2017-03-21 20:12:10 --> 404 Page Not Found --> ckeditor
+ERROR - 2017-03-21 21:39:19 --> 404 Page Not Found --> 1.html
+ERROR - 2017-03-21 22:45:48 --> Severity: Warning  --> mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 76
+ERROR - 2017-03-21 22:45:48 --> Unable to connect to the database
